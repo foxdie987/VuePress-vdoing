@@ -17,6 +17,8 @@ npm install -D vuepress
 
 npm install vuepress-theme-vdoing -D
 
+npm run dev # or yarn dev
+
 ```
 
 ## Step 2
