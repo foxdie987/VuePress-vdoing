@@ -1,4 +1,4 @@
-# VuePress-vdoing
+### VuePress-vdoing
 
 vdoing theme
 
