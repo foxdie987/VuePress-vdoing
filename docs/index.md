@@ -13,9 +13,11 @@ footer: Copyright © 2021-present <a href="https://pquan.info" target="_blank">p
 
 ## Notebooks
 <!-- relative path -->
+<!--
 [Note 1](../_posts/note1.md)  
 [Note 2](../_posts/note2.md)  
 [Theme](../_posts/themeinstall.md)
+-->
 
 ## Useful links
 :diamonds: [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
