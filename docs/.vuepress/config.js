@@ -9,12 +9,14 @@ module.exports  =  {
      sidebar: 'structuring' //  'structuring' | { mode: 'structuring', collapsable: Boolean} | 'auto' | 自定义
   },
   plugins: [
-    ['vuepress-plugin-mathjax',
-  {
-    target: 'svg',
-    macros: {
-      '*': '\\times',
-    },
-  },
-]]
+    [
+      'vuepress-plugin-mathjax',
+        {
+          target: 'svg',
+          macros: {
+            '*': '\\times',
+          },
+        },
+    ],
+    ],
 }
